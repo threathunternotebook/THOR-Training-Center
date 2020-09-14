@@ -24,4 +24,4 @@ The Open Source tools will include:
 - moloch 
 - thehive 
 
-![THOR-TC](https://github.com/threathunternotebook/THOR-Training-Center/blob/master/THOR_PUBLIC_DESKTOP.png)
+![THOR-TC](https://github.com/threathunternotebook/THOR-Training-Center/blob/master/THOR_PUBLIC_DESKTOP2.png)
