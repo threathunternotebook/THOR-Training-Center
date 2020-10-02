@@ -23,6 +23,12 @@ The Open Source tools will include:
 - sysmon
 - moloch 
 - thehive 
+- Googler
+- Yara
+- ATT&CK Navigator
+- Vectr
+- Mordor Project
+- Jupyter Notebook (Threat Hunter Playbook @cyberwardog)
 
 ![THOR-TC](https://github.com/threathunternotebook/THOR-Training-Center/blob/master/thor_desktop11.png)
 
