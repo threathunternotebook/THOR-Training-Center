@@ -1,5 +1,5 @@
 # THOR-Training-Center
-The Threat Hunting Operations and Response (THOR) Training Center will be coming soon.  First Release will be an Alpha.  This will be in a virtual machine format that can be used in Vmware Player, Workstation, or Fusion.   Completely built with Open Source tools, Lab Book, Examples and Answers.
+The Threat Hunting Operations and Response (THOR) Training Center will be coming soon.  The training center is geared toward teaching high-order thinking skills to future threat hunters. First Release will be an Alpha. This will be in a virtual machine format that can be used in Vmware Player, Workstation, or Fusion.   Completely built with Open Source tools, Lab Book, Examples and Answers.
 The Open Source tools will include:
 - Elasticsearch
 - Logstash
